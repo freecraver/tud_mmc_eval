@@ -1,6 +1,6 @@
 movie_name,file_name,goodforairplanes
 Seventh Son,Seventh_Son,1
-2_States,2_States,0
+2_States,2_States,!INVALID!
 Welcome to Me,Welcome_to_Me,0
 The Judge,The_Judge,0
 Transformers  Age of Extinction,Transformers__Age_of_Extinction,0
@@ -35,7 +35,7 @@ Brother Bear,Brother_Bear,0
 Babar  The Movie,Babar__The_Movie,0
 The Parent Trap,The_Parent_Trap,0
 Bros Before Hos,Bros_Before_Hos,1
-Moulin Rouge!,Moulin_Rouge!.mp4,1
+Moulin Rouge!,Moulin_Rouge!,1
 Total Recall,Total_Recall,1
 American Pie,American_Pie,1
 Shakespeare in Love,Shakespeare_in_Love,1
